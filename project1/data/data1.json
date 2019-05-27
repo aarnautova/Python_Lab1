@@ -1,0 +1,17 @@
+{
+    "nextId": 3,
+    "items": [
+        {
+            "name": "Test",
+            "time": "0",
+            "period_id": 1,
+            "days": []
+        },
+        {
+            "name": "Test1",
+            "time": "12:20",
+            "period_id": 2,
+            "days": []
+        }
+    ]
+}
