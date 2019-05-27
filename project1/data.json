@@ -1,0 +1,30 @@
+{
+    "nextId": 6,
+    "items": [
+        {
+            "name": "run1",
+            "time": "12^20",
+            "period_id": 1,
+            "days": [
+                "Sunday",
+                "Monday",
+                "Friday",
+                "Saturday"
+            ]
+        },
+        {
+            "name": "1",
+            "time": "12",
+            "period_id": 4,
+            "days": []
+        },
+        {
+            "name": "1",
+            "time": "12:50",
+            "period_id": 5,
+            "days": [
+                "Friday"
+            ]
+        }
+    ]
+}
